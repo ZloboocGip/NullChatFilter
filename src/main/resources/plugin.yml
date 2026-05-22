@@ -1,0 +1,4 @@
+name: NullChatFilter
+version: '${project.version}'
+main: org.nooll.nullchatfilter.NullChatFilter
+api-version: '1.16'
